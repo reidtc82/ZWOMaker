@@ -1,2 +1,2 @@
 # ZWOMaker
-Utility to produce a training season's worth of two files.
+Utility to produce a training mesocycle of zwo files.
